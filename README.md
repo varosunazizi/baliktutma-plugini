@@ -1,1 +1,1 @@
-# baliktutma-plugini
+dosya uzantısını .jar olarak değiştirip kullanın.
